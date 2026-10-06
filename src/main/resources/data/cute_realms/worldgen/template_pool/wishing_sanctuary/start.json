@@ -1,0 +1,15 @@
+{
+  "name": "cute_realms:wishing_sanctuary/start",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cute_realms:wishing_sanctuary/sanctuary",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "minecraft:gold_nugget"
+    },
+    {
+      "item": "cute_realms:fairy_dust"
+    }
+  ],
+  "result": {
+    "item": "cute_realms:wish_coin",
+    "count": 2
+  }
+}

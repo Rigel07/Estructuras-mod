@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "CSC",
+    " Y ",
+    "C C"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "S": {
+      "item": "cute_realms:stardust"
+    },
+    "Y": {
+      "item": "minecraft:spyglass"
+    }
+  },
+  "result": {
+    "item": "cute_realms:telescope",
+    "count": 1
+  }
+}

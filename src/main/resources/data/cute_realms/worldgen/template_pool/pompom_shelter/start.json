@@ -1,0 +1,15 @@
+{
+  "name": "cute_realms:pompom_shelter/start",
+  "fallback": "minecraft:empty",
+  "elements": [
+    {
+      "weight": 1,
+      "element": {
+        "element_type": "minecraft:single_pool_element",
+        "location": "cute_realms:pompom_shelter/shelter",
+        "projection": "rigid",
+        "processors": "minecraft:empty"
+      }
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "cute_realms:item/tuli_spawn_egg"
+  }
+}
